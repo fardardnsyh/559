@@ -1,0 +1,8 @@
+{
+  "name": "anon-chat",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "b1cfdbf3"
+}
